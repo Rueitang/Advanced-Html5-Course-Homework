@@ -1,0 +1,15 @@
+W:\Projects\HomeWork1\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.dll
+W:\Projects\HomeWork1\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.pdb
+W:\Projects\HomeWork1\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.dll
+W:\Projects\HomeWork1\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.pdb
+W:\Projects\HomeWork1\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.csprojResolveAssemblyReference.cache
+W:\Projects\Homework\A\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.dll
+W:\Projects\Homework\A\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.pdb
+W:\Projects\Homework\A\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.csprojResolveAssemblyReference.cache
+W:\Projects\Homework\A\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.dll
+W:\Projects\Homework\A\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.pdb
+W:\Projects\Homework2\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.dll
+W:\Projects\Homework2\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.pdb
+W:\Projects\Homework2\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.csprojResolveAssemblyReference.cache
+W:\Projects\Homework2\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.dll
+W:\Projects\Homework2\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.pdb

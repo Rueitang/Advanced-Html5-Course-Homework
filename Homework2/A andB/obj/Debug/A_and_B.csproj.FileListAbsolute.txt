@@ -1,0 +1,11 @@
+W:\Projects\HomeWork1\A andB\bin\Debug\A_and_B.exe.config
+W:\Projects\HomeWork1\A andB\bin\Debug\A_and_B.exe
+W:\Projects\HomeWork1\A andB\bin\Debug\A_and_B.pdb
+W:\Projects\HomeWork1\A andB\bin\Debug\HomeWorkLibrary.dll
+W:\Projects\HomeWork1\A andB\bin\Debug\HomeWorkLibrary.pdb
+W:\Projects\HomeWork1\A andB\obj\Debug\A_and_B.csprojResolveAssemblyReference.cache
+W:\Projects\HomeWork1\A andB\obj\Debug\A_andB.Form1.resources
+W:\Projects\HomeWork1\A andB\obj\Debug\A_and_B.Properties.Resources.resources
+W:\Projects\HomeWork1\A andB\obj\Debug\A_and_B.csproj.GenerateResource.Cache
+W:\Projects\HomeWork1\A andB\obj\Debug\A_and_B.exe
+W:\Projects\HomeWork1\A andB\obj\Debug\A_and_B.pdb

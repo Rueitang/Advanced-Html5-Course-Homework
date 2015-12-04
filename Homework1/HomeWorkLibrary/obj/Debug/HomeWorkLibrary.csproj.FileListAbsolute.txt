@@ -1,0 +1,5 @@
+W:\Projects\HomeWork1\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.dll
+W:\Projects\HomeWork1\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.pdb
+W:\Projects\HomeWork1\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.dll
+W:\Projects\HomeWork1\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.pdb
+W:\Projects\HomeWork1\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.csprojResolveAssemblyReference.cache
