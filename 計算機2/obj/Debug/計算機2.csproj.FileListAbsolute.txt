@@ -1,0 +1,21 @@
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\bin\Debug\計算機2.exe.config
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\bin\Debug\計算機2.exe
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\bin\Debug\計算機2.pdb
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\obj\Debug\計算機2.csprojResolveAssemblyReference.cache
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\obj\Debug\計算機2.Form1.resources
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\obj\Debug\計算機2.Properties.Resources.resources
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\obj\Debug\計算機2.csproj.GenerateResource.Cache
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\obj\Debug\計算機2.exe
+c:\users\hrt\documents\visual studio 2015\Projects\HomeWork1\計算機2\obj\Debug\計算機2.pdb
+W:\Projects\HomeWork1\計算機2\bin\Debug\計算機2.exe.config
+W:\Projects\HomeWork1\計算機2\obj\Debug\計算機2.exe
+W:\Projects\HomeWork1\計算機2\obj\Debug\計算機2.pdb
+W:\Projects\HomeWork1\計算機2\bin\Debug\計算機2.exe
+W:\Projects\HomeWork1\計算機2\bin\Debug\計算機2.pdb
+W:\Projects\HomeWork1\計算機2\obj\Debug\計算機2.csprojResolveAssemblyReference.cache
+W:\Projects\HomeWork1\計算機2\obj\Debug\計算機2.Form1.resources
+W:\Projects\HomeWork1\計算機2\obj\Debug\計算機2.Properties.Resources.resources
+W:\Projects\HomeWork1\計算機2\obj\Debug\計算機2.csproj.GenerateResource.Cache
+W:\Advanced-Html5-Course-Homework\計算機2\bin\Debug\計算機2.exe.config
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\計算機2.exe
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\計算機2.pdb

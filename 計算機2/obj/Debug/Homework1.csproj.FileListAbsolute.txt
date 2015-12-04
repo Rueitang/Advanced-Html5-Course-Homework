@@ -1,0 +1,12 @@
+W:\Advanced-Html5-Course-Homework\計算機2\bin\Debug\計算機2.exe.config
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\計算機2.exe
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\計算機2.pdb
+W:\Advanced-Html5-Course-Homework\計算機2\bin\Debug\計算機2.exe
+W:\Advanced-Html5-Course-Homework\計算機2\bin\Debug\計算機2.pdb
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\計算機2.Form1.resources
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\計算機2.Properties.Resources.resources
+W:\Advanced-Html5-Course-Homework\計算機2\obj\Debug\Homework1.csproj.GenerateResource.Cache
+W:\Advanced-Html5-Course-Homeworkw\計算機2\bin\Debug\計算機2.exe.config
+W:\Advanced-Html5-Course-Homeworkw\計算機2\obj\Debug\計算機2.exe
+W:\Advanced-Html5-Course-Homeworkw\計算機2\obj\Debug\計算機2.pdb
