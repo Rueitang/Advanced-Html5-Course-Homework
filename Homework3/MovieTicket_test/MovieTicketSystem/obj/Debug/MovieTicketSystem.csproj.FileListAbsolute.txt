@@ -1,0 +1,23 @@
+W:\C#\MovieTicket_test\MovieTicketSystem\bin\Debug\MovieTicketSystem.exe.config
+W:\C#\MovieTicket_test\MovieTicketSystem\bin\Debug\MovieTicketSystem.exe
+W:\C#\MovieTicket_test\MovieTicketSystem\bin\Debug\MovieTicketSystem.pdb
+W:\C#\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.csprojResolveAssemblyReference.cache
+W:\C#\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.Form1.resources
+W:\C#\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.Properties.Resources.resources
+W:\C#\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.csproj.GenerateResource.Cache
+W:\C#\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.exe
+W:\C#\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.pdb
+C:\Users\ruei_tang\Documents\Visual Studio 2015\Projects\MovieTicket_test\MovieTicketSystem\bin\Debug\MovieTicketSystem.exe.config
+C:\Users\ruei_tang\Documents\Visual Studio 2015\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.exe
+C:\Users\ruei_tang\Documents\Visual Studio 2015\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.pdb
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\bin\Debug\MovieTicketSystem.exe.config
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.exe
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.pdb
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\bin\Debug\MovieTicketSystem.exe
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\bin\Debug\MovieTicketSystem.pdb
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.csprojResolveAssemblyReference.cache
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.Form1.resources
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.Properties.Resources.resources
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\obj\Debug\MovieTicketSystem.csproj.GenerateResource.Cache
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\bin\Debug\TicketLibrary.dll
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\MovieTicketSystem\bin\Debug\TicketLibrary.pdb

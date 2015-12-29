@@ -1,0 +1,5 @@
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\TicketLibrary\bin\Debug\TicketLibrary.dll
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\TicketLibrary\bin\Debug\TicketLibrary.pdb
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\TicketLibrary\obj\Debug\TicketLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\TicketLibrary\obj\Debug\TicketLibrary.dll
+C:\Users\ruei_tang\Dropbox\Cshape資料夾\Projects\MovieTicket_test\TicketLibrary\obj\Debug\TicketLibrary.pdb
